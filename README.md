@@ -1,1 +1,1 @@
-# coivdProteins
+# covidProteins
